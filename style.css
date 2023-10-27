@@ -1,0 +1,2879 @@
+body{
+    margin: 0;
+}
+
+
+.PROJET-NFT {
+    background-color: #000000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .PROJET-NFT .div {
+    background-color: #000000;
+    overflow: hidden;
+    width: 1512px;
+    height: 6118px;
+    position: relative;
+  }
+  
+  .PROJET-NFT .overlap {
+    position: absolute;
+    width: 1674px;
+    height: 508px;
+    top: 5537px;
+    left: -78px;
+  }
+  
+  .PROJET-NFT .footer {
+    position: absolute;
+    width: 1674px;
+    height: 508px;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+  }
+  
+  .PROJET-NFT .overlap-group {
+    position: relative;
+    width: 1668px;
+    height: 508px;
+    backdrop-filter: blur(25px) brightness(100%);
+    -webkit-backdrop-filter: blur(25px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.04) 0%, rgba(142.64, 142.64, 142.64, 0.02) 100%);
+  }
+  
+  .PROJET-NFT .group {
+    position: absolute;
+    width: 1399px;
+    height: 226px;
+    top: 167px;
+    left: 166px;
+  }
+  
+  .PROJET-NFT .group-2 {
+    position: absolute;
+    width: 406px;
+    height: 173px;
+    top: 53px;
+    left: 0;
+  }
+  
+  .PROJET-NFT .le-plus-vaste-march {
+    position: absolute;
+    top: 0;
+    left: 1px;
+    opacity: 0.7;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-3 {
+    position: absolute;
+    width: 262px;
+    height: 43px;
+    top: 130px;
+    left: 0;
+  }
+  
+  .PROJET-NFT .overlap-group-wrapper {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PROJET-NFT .img-wrapper {
+    position: relative;
+    width: 46px;
+    height: 46px;
+    top: -2px;
+    left: -2px;
+    border-radius: 4px;
+    backdrop-filter: blur(50px) brightness(100%);
+    -webkit-backdrop-filter: blur(50px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.02) 100%);
+  }
+  
+  .PROJET-NFT .img {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    top: 8px;
+    left: 8px;
+  }
+  
+  .PROJET-NFT .overlap-wrapper {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    top: 0;
+    left: 109px;
+  }
+  
+  .PROJET-NFT .group-4 {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    top: 0;
+    left: 55px;
+  }
+  
+  .PROJET-NFT .group-5 {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    top: 0;
+    left: 219px;
+  }
+  
+  .PROJET-NFT .tik-tok {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    top: 8px;
+    left: 7px;
+  }
+  
+  .PROJET-NFT .group-6 {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    top: 0;
+    left: 164px;
+  }
+  
+  .PROJET-NFT .group-7 {
+    position: absolute;
+    width: 787px;
+    height: 173px;
+    top: 0;
+    left: 484px;
+  }
+  
+  .PROJET-NFT .group-8 {
+    position: absolute;
+    width: 127px;
+    height: 173px;
+    top: 0;
+    left: 210px;
+  }
+  
+  .PROJET-NFT .text-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .text-wrapper-2 {
+    position: absolute;
+    top: 39px;
+    left: 0;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .text-wrapper-3 {
+    position: absolute;
+    top: 76px;
+    left: 0;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .text-wrapper-4 {
+    position: absolute;
+    top: 113px;
+    left: 0;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .text-wrapper-5 {
+    position: absolute;
+    top: 150px;
+    left: 0;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-9 {
+    position: absolute;
+    width: 124px;
+    height: 173px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PROJET-NFT .group-10 {
+    position: absolute;
+    width: 118px;
+    height: 173px;
+    top: 0;
+    left: 427px;
+  }
+  
+  .PROJET-NFT .text-wrapper-6 {
+    position: absolute;
+    top: 39px;
+    left: 1px;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .text-wrapper-7 {
+    position: absolute;
+    top: 76px;
+    left: 1px;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .text-wrapper-8 {
+    position: absolute;
+    top: 113px;
+    left: 1px;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .text-wrapper-9 {
+    position: absolute;
+    top: 150px;
+    left: 1px;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-11 {
+    position: absolute;
+    width: 163px;
+    height: 173px;
+    top: 0;
+    left: 634px;
+  }
+  
+  .PROJET-NFT .p {
+    position: absolute;
+    top: 450px;
+    left: 144px;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .text-wrapper-10 {
+    position: absolute;
+    top: 471px;
+    left: 1203px;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .conditions-d {
+    position: absolute;
+    top: 471px;
+    left: 935px;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .text-wrapper-11 {
+    position: absolute;
+    top: 134px;
+    left: 167px;
+    background: linear-gradient(180deg, rgb(254, 244, 2) 20.31%, rgb(0, 193.8, 255) 100%);
+    -webkit-background-clip: text !important;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    font-family: "Paytone One", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 75px;
+    white-space: nowrap;
+  }
+  
+  .PROJET-NFT .overlap-2 {
+    position: absolute;
+    width: 1674px;
+    height: 404px;
+    top: 4973px;
+    left: -81px;
+  }
+  
+  .PROJET-NFT .companies {
+    position: absolute;
+    width: 1674px;
+    height: 404px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PROJET-NFT .nous-travaillons {
+    position: absolute;
+    top: 0;
+    left: 139px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 1.6px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-12 {
+    position: absolute;
+    width: 1672px;
+    height: 276px;
+    top: 128px;
+    left: 0;
+  }
+  
+  .PROJET-NFT .div-wrapper {
+    position: absolute;
+    width: 253px;
+    height: 128px;
+    top: 0;
+    left: 1419px;
+  }
+  
+  .PROJET-NFT .overlap-group-2 {
+    position: relative;
+    height: 128px;
+  }
+  
+  .PROJET-NFT .group-13 {
+    position: absolute;
+    width: 253px;
+    height: 128px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PROJET-NFT .rectangle {
+    position: relative;
+    width: 255px;
+    height: 130px;
+    top: -1px;
+    left: -1px;
+    border-radius: 6px;
+    border: 1px solid;
+    border-color: transparent;
+    backdrop-filter: blur(25px) brightness(100%);
+    -webkit-backdrop-filter: blur(25px) brightness(100%);
+    
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.04) 0%, rgba(142.64, 142.64, 142.64, 0.02) 100%);
+  }
+  
+  .PROJET-NFT .group-14 {
+    position: absolute;
+    width: 71px;
+    height: 101px;
+    top: 14px;
+    left: 92px;
+  }
+  
+  .PROJET-NFT .terra {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PROJET-NFT .text-wrapper-12 {
+    position: absolute;
+    top: 76px;
+    left: 6px;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-15 {
+    position: absolute;
+    width: 254px;
+    height: 128px;
+    top: 0;
+    left: 327px;
+  }
+  
+  .PROJET-NFT .group-wrapper {
+    position: relative;
+    width: 256px;
+    height: 130px;
+    top: -1px;
+    left: -1px;
+    border-radius: 6px;
+    backdrop-filter: blur(25px) brightness(100%);
+    -webkit-backdrop-filter: blur(25px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.04) 0%, rgba(142.64, 142.64, 142.64, 0.02) 100%);
+  }
+  
+  .PROJET-NFT .group-16 {
+    position: relative;
+    width: 112px;
+    height: 25px;
+    top: 91px;
+    left: 73px;
+  }
+  
+  .PROJET-NFT .text-wrapper-13 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-17 {
+    position: absolute;
+    width: 253px;
+    height: 128px;
+    top: 0;
+    left: 873px;
+  }
+  
+  .PROJET-NFT .overlap-group-3 {
+    position: relative;
+    width: 255px;
+    height: 130px;
+    top: -1px;
+    left: -1px;
+    border-radius: 6px;
+    backdrop-filter: blur(25px) brightness(100%);
+    -webkit-backdrop-filter: blur(25px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.04) 0%, rgba(142.64, 142.64, 142.64, 0.02) 100%);
+  }
+  
+  .PROJET-NFT .group-18 {
+    position: relative;
+    width: 107px;
+    height: 101px;
+    top: 15px;
+    left: 75px;
+  }
+  
+  .PROJET-NFT .img-2 {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    top: 0;
+    left: 17px;
+  }
+  
+  .PROJET-NFT .text-wrapper-14 {
+    position: absolute;
+    top: 76px;
+    left: 0;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-19 {
+    position: absolute;
+    width: 253px;
+    height: 128px;
+    top: 0;
+    left: 1146px;
+  }
+  
+  .PROJET-NFT .group-20 {
+    position: relative;
+    width: 113px;
+    height: 99px;
+    top: 16px;
+    left: 72px;
+  }
+  
+  .PROJET-NFT .text-wrapper-15 {
+    position: absolute;
+    top: 74px;
+    left: 0;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-21 {
+    position: absolute;
+    width: 253px;
+    height: 128px;
+    top: 148px;
+    left: 547px;
+  }
+  
+  .PROJET-NFT .group-22 {
+    position: absolute;
+    width: 254px;
+    height: 128px;
+    top: 148px;
+    left: 0;
+  }
+  
+  .PROJET-NFT .group-23 {
+    position: relative;
+    width: 112px;
+    height: 87px;
+    top: 29px;
+    left: 73px;
+  }
+  
+  .PROJET-NFT .bitcoin-plus {
+    position: absolute;
+    width: 69px;
+    height: 50px;
+    top: 0;
+    left: 12px;
+  }
+  
+  .PROJET-NFT .text-wrapper-16 {
+    position: absolute;
+    top: 62px;
+    left: 0;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-24 {
+    position: absolute;
+    width: 253px;
+    height: 128px;
+    top: 148px;
+    left: 274px;
+  }
+  
+  .PROJET-NFT .group-25 {
+    position: relative;
+    width: 88px;
+    height: 95px;
+    top: 18px;
+    left: 84px;
+  }
+  
+  .PROJET-NFT .binance {
+    position: absolute;
+    width: 69px;
+    height: 69px;
+    top: 0;
+    left: 10px;
+  }
+  
+  .PROJET-NFT .text-wrapper-17 {
+    position: absolute;
+    top: 70px;
+    left: 0;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-26 {
+    position: absolute;
+    width: 253px;
+    height: 128px;
+    top: 148px;
+    left: 1093px;
+  }
+  
+  .PROJET-NFT .group-27 {
+    position: absolute;
+    width: 253px;
+    height: 128px;
+    top: 148px;
+    left: 1366px;
+  }
+  
+  .PROJET-NFT .group-28 {
+    position: absolute;
+    width: 253px;
+    height: 128px;
+    top: 148px;
+    left: 820px;
+  }
+  
+  .PROJET-NFT .group-29 {
+    position: absolute;
+    width: 99px;
+    height: 25px;
+    top: 90px;
+    left: 79px;
+  }
+  
+  .PROJET-NFT .covalent-badge {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 21px;
+    left: 96px;
+  }
+  
+  .PROJET-NFT .group-30 {
+    position: absolute;
+    width: 255px;
+    height: 128px;
+    top: 0;
+    left: 54px;
+  }
+  
+  .PROJET-NFT .overlap-3 {
+    position: relative;
+    height: 130px;
+    top: -1px;
+    left: -1px;
+    border-radius: 6px;
+    backdrop-filter: blur(25px) brightness(100%);
+    -webkit-backdrop-filter: blur(25px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.04) 0%, rgba(142.64, 142.64, 142.64, 0.02) 100%);
+  }
+  
+  .PROJET-NFT .text-wrapper-18 {
+    position: absolute;
+    top: 90px;
+    left: 100px;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-31 {
+    position: absolute;
+    width: 49px;
+    height: 41px;
+    top: 32px;
+    left: 105px;
+  }
+  
+  .PROJET-NFT .group-32 {
+    position: absolute;
+    width: 253px;
+    height: 128px;
+    top: 0;
+    left: 601px;
+  }
+  
+  .PROJET-NFT .group-33 {
+    position: relative;
+    width: 76px;
+    height: 25px;
+    top: 88px;
+    left: 90px;
+  }
+  
+  .PROJET-NFT .solana-badge {
+    position: absolute;
+    width: 57px;
+    height: 57px;
+    top: 20px;
+    left: 98px;
+  }
+  
+  .PROJET-NFT .bitcoin-plus-xbc {
+    position: absolute;
+    width: 62px;
+    height: 51px;
+    top: 154px;
+    left: 423px;
+  }
+  
+  .PROJET-NFT .overlap-4 {
+    position: absolute;
+    width: 1334px;
+    height: 445px;
+    top: 4368px;
+    left: 89px;
+    border-radius: 30px;
+  }
+  
+  .PROJET-NFT .never-miss-a-drop {
+    position: absolute;
+    width: 1334px;
+    height: 445px;
+    top: 0;
+    left: 0;
+    border-radius: 30px;
+    backdrop-filter: blur(25px) brightness(100%);
+    -webkit-backdrop-filter: blur(25px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.04) 0%, rgba(142.64, 142.64, 142.64, 0.02) 100%);
+  }
+  
+  .PROJET-NFT .never-miss-a-drop-2 {
+    position: relative;
+    width: 759px;
+    height: 215px;
+    top: 125px;
+    left: 288px;
+  }
+  
+  .PROJET-NFT .group-34 {
+    position: absolute;
+    width: 763px;
+    height: 117px;
+    top: -201px;
+    left: 0;
+  }
+  
+  .PROJET-NFT .ne-RATE-RIEN-DE-nos {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: 1.9px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .inscrivez-votre {
+    position: absolute;
+    top: 136px;
+    left: 102px;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 1.6px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .form-and-button {
+    position: absolute;
+    width: 361px;
+    height: 62px;
+    top: 153px;
+    left: 68px;
+  }
+  
+  .PROJET-NFT .email-adress-form {
+    height: 62px;
+  }
+  
+  .PROJET-NFT .group-35 {
+    width: 363px;
+    height: 62px;
+  }
+  
+  .PROJET-NFT .overlap-group-4 {
+    position: relative;
+    width: 365px;
+    height: 66px;
+    top: -2px;
+    left: -2px;
+    border-radius: 6px;
+    backdrop-filter: blur(25px) brightness(100%);
+    -webkit-backdrop-filter: blur(25px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.04) 0%, rgba(142.64, 142.64, 142.64, 0.02) 100%);
+  }
+  
+  .PROJET-NFT .text-wrapper-19 {
+    position: absolute;
+    width: 145px;
+    top: 20px;
+    left: 21px;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .view-more-button {
+    position: absolute;
+    width: 192px;
+    height: 62px;
+    top: 277px;
+    left: 731px;
+  }
+  
+  .PROJET-NFT .overlap-5 {
+    position: relative;
+    width: 196px;
+    height: 68px;
+    top: -3px;
+    left: -3px;
+    background-color: #00f0ff;
+    border-radius: 6px;
+    border: 3px solid;
+    border-color: #4aed52;
+
+  }
+  
+  .PROJET-NFT .rectangle-2 {
+    position: absolute;
+    width: 194px;
+    height: 66px;
+    top: -2px;
+    left: -2px;
+    border-radius: 6px;
+    border: 2px solid;
+    border-color: #4aed52;
+    background: linear-gradient(180deg, rgb(0, 240, 255) 0%, rgb(254, 244, 2) 100%);
+  }
+  
+  .PROJET-NFT .envoyer {
+    position: absolute;
+    width: 106px;
+    top: 18px;
+    left: 42px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .how-to-become {
+    position: absolute;
+    width: 1334px;
+    height: 629px;
+    top: 3488px;
+    left: 89px;
+  }
+  
+  .PROJET-NFT .group-36 {
+    position: relative;
+    width: 1336px;
+    height: 629px;
+  }
+  
+  .PROJET-NFT .COMMENT-DEVENIR-CR {
+    position: absolute;
+    top: 0;
+    left: 361px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: 1.9px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-37 {
+    position: absolute;
+    width: 423px;
+    height: 420px;
+    top: 209px;
+    left: -42px;
+  }
+  
+  .PROJET-NFT .overlap-group-5 {
+    position: relative;
+    height: 420px;
+    border-radius: 10px;
+  }
+  
+  .PROJET-NFT .rectangle-3 {
+    position: absolute;
+    width: 423px;
+    height: 420px;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    transform: rotate(180deg);
+    backdrop-filter: blur(25px) brightness(100%);
+    -webkit-backdrop-filter: blur(25px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.04) 0%, rgba(142.64, 142.64, 142.64, 0.02) 100%);
+  }
+  
+  .PROJET-NFT .group-38 {
+    position: absolute;
+    width: 346px;
+    height: 224px;
+    top: 98px;
+    left: 40px;
+  }
+  
+  .PROJET-NFT .connectez-votre {
+    top: 105px;
+    left: 0;
+    font-weight: 700;
+    font-size: 20px;
+    position: absolute;
+    font-family: "Outfit", Helvetica;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .connectez-votre-2 {
+    top: 155px;
+    left: 40px;
+    opacity: 0.7;
+    font-weight: 500;
+    font-size: 18px;
+    position: absolute;
+    font-family: "Outfit", Helvetica;
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-39 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 131px;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/vuesax-bold-wallet-money.svg);
+    background-size: 100% 100%;
+  }
+  
+  .PROJET-NFT .group-40 {
+    position: absolute;
+    width: 450px;
+    height: 420px;
+    top: 209px;
+    left: 397px;
+  }
+  
+  .PROJET-NFT .overlap-6 {
+    position: relative;
+    width: 454px;
+    height: 420px;
+  }
+  
+  .PROJET-NFT .rectangle-4 {
+    position: absolute;
+    width: 423px;
+    height: 420px;
+    top: 0;
+    left: 15px;
+    border-radius: 10px;
+    transform: rotate(180deg);
+    backdrop-filter: blur(25px) brightness(100%);
+    -webkit-backdrop-filter: blur(25px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.04) 0%, rgba(142.64, 142.64, 142.64, 0.02) 100%);
+  }
+  
+  .PROJET-NFT .group-41 {
+    position: absolute;
+    width: 454px;
+    height: 223px;
+    top: 93px;
+    left: 0;
+  }
+  
+  .PROJET-NFT .cr-er-une-uvre-d-art {
+    position: absolute;
+    top: 105px;
+    left: 101px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .cr-ez-votre {
+    position: absolute;
+    top: 154px;
+    left: 0;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-42 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 186px;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/vuesax-bold-grid-3.svg);
+    background-size: 100% 100%;
+  }
+  
+  .PROJET-NFT .group-43 {
+    position: absolute;
+    width: 423px;
+    height: 420px;
+    top: 209px;
+    left: 911px;
+    border-radius: 10px;
+    backdrop-filter: blur(25px) brightness(100%);
+    -webkit-backdrop-filter: blur(25px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.04) 0%, rgba(142.64, 142.64, 142.64, 0.02) 100%);
+  }
+  
+  .PROJET-NFT .group-44 {
+    position: relative;
+    width: 332px;
+    height: 268px;
+    top: 90px;
+    left: 30px;
+  }
+  
+  .PROJET-NFT .t-l-chargez-vos-NFT {
+    position: absolute;
+    top: 105px;
+    left: 51px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .t-l-charger-ajoutez {
+    position: absolute;
+    top: 160px;
+    left: 0;
+    opacity: 0.7;
+    font-family: "Poppins", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-45 {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 0;
+    left: 124px;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/vuesax-bold-gallery.svg);
+    background-size: 100% 100%;
+  }
+  
+  .PROJET-NFT .view-more-button-2 {
+    top: 1791px;
+    left: 633px;
+    position: absolute;
+    width: 247px;
+    height: 62px;
+  }
+  
+  .PROJET-NFT .overlap-7 {
+    position: relative;
+    width: 251px;
+    height: 68px;
+    top: -3px;
+    left: -31px;
+    background-color: #00f0ff;
+    border-radius: 6px;
+    border: 3px solid;
+    border-color: #4aed52;
+   
+  }
+  
+  .PROJET-NFT .rectangle-5 {
+    position: absolute;
+    width: 249px;
+    height: 66px;
+    top: -2px;
+    left: -2px;
+    border-radius: 6px;
+    border: 2px solid;
+    border-color: #4aed52;
+    background: linear-gradient(180deg, rgb(0, 240, 255) 0%, rgb(254, 244, 2) 100%);
+    cursor: pointer;
+  }
+  
+  .PROJET-NFT .voir-PLUS {
+    position: absolute;
+    top: 18px;
+    left: 67px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 800;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .overlap-8 {
+    position: absolute;
+    width: 1512px;
+    height: 129px;
+    top: 804px;
+    left: -43px;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/companies.png);
+    background-size: 100% 100%;
+  }
+  
+  .PROJET-NFT .cardano-badge {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    top: 44px;
+    left: 307px;
+  }
+  
+  .PROJET-NFT .bitcoin-plus-xbc-2 {
+    position: absolute;
+    width: 25px;
+    height: 21px;
+    top: 54px;
+    left: 317px;
+  }
+  
+  .PROJET-NFT .overlap-9 {
+    position: absolute;
+    width: 1512px;
+    height: 771px;
+    top: 23px;
+    left: 0;
+  }
+  
+  .PROJET-NFT .overlap-10 {
+    position: absolute;
+    width: 1512px;
+    height: 771px;
+    top: 0;
+    left: -48px;
+  }
+  
+  .PROJET-NFT .monkey-card {
+    position: absolute;
+    width: 709px;
+    height: 732px;
+    top: 39px;
+    left: 803px;
+  }
+  
+  .PROJET-NFT .connect-wallet {
+    position: absolute;
+    width: 184px;
+    height: 50px;
+    top: 14px;
+    left: 1240px;
+  }
+  
+  .PROJET-NFT .headline {
+    position: absolute;
+    width: 612px;
+    height: 499px;
+    top: 0;
+    left: 86px;
+  }
+  
+  .PROJET-NFT .menu {
+    position: absolute;
+    width: 584px;
+    height: 25px;
+    top: 26px;
+    left: 475px;
+  }
+  
+  .PROJET-NFT .pseudo {
+    position: absolute;
+    width: 1512px;
+    height: 2px;
+    top: 711px;
+    left: 0;
+  }
+  
+  .PROJET-NFT .how-it-works-button {
+    position: absolute;
+    width: 331px;
+    height: 65px;
+    top: 542px;
+    left: 357px;
+  }
+  
+  .PROJET-NFT .connect-wallet-2 {
+    position: absolute;
+    width: 291px;
+    height: 108px;
+    top: 521px;
+    left: 65px;
+    cursor: pointer;
+  }
+  
+  .PROJET-NFT .group-46 {
+    position: absolute;
+    width: 2085px;
+    height: 740px;
+    top: 999px;
+    left: -467px;
+  }
+  
+  .PROJET-NFT .pseudo-2 {
+    position: absolute;
+    width: 2085px;
+    height: 45px;
+    top: 695px;
+    left: 0;
+    transform: rotate(180deg);
+  }
+  
+  .PROJET-NFT .rectangle-6 {
+    position: absolute;
+    width: 1512px;
+    height: 644px;
+    top: 48px;
+    left: 175px;
+    background-color: var(--variable-collection-jaune);
+    transform: rotate(-180deg);
+  }
+  
+  .PROJET-NFT .razor-svg {
+    position: absolute;
+    width: 1512px;
+    height: 48px;
+    top: 0;
+    left: 175px;
+    transform: rotate(-180deg);
+  }
+  
+  .PROJET-NFT .monkeys {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 52px;
+    left: 512px;
+  }
+  
+  .PROJET-NFT .text-wrapper-20 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: 1.9px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .monkeys-2 {
+    position: relative;
+    width: 1370px;
+    height: 570px;
+  }
+  
+  .PROJET-NFT .group-47 {
+    position: absolute;
+    width: 316px;
+    height: 570px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PROJET-NFT .overlap-11 {
+    position: relative;
+    height: 570px;
+  }
+  
+  .PROJET-NFT .ellipse {
+    position: absolute;
+    width: 310px;
+    height: 306px;
+    top: 112px;
+    left: 9px;
+    border-radius: 154.86px/153px;
+    transform: rotate(90deg);
+    filter: blur(74.45px);
+    background: linear-gradient(
+      180deg,
+      rgba(154, 16, 159, 0.7) 0%,
+      rgba(62, 255, 203, 0.7) 50.52%,
+      rgba(248, 140, 248, 0.7) 100%
+    );
+    opacity: 0.5;
+  }
+  
+  .PROJET-NFT .overlap-group-6 {
+    position: relative;
+    width: 321px;
+    height: 574px;
+    left: -1px;
+  }
+  
+  .PROJET-NFT .rectangle-7 {
+    position: absolute;
+    width: 321px;
+    height: 450px;
+    top: 124px;
+    left: 0;
+    border-radius: 6px;
+    border: 4px solid;
+    border-color: #000000;
+    transform: rotate(180deg);
+    backdrop-filter: blur(74.45px) brightness(100%);
+    -webkit-backdrop-filter: blur(74.45px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.13) 0%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .img-3 {
+    position: absolute;
+    width: 310px;
+    height: 420px;
+    top: 0;
+    left: 1px;
+  }
+  
+  .PROJET-NFT .group-48 {
+    position: absolute;
+    width: 313px;
+    height: 150px;
+    top: 420px;
+    left: 3px;
+    backdrop-filter: blur(7.45px) brightness(100%);
+    -webkit-backdrop-filter: blur(7.45px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .group-49 {
+    position: relative;
+    width: 291px;
+    height: 109px;
+    top: 21px;
+    left: 14px;
+  }
+  
+  .PROJET-NFT .text-wrapper-21 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .text-wrapper-22 {
+    position: absolute;
+    top: 28px;
+    left: 0;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .text-wrapper-23 {
+    position: absolute;
+    top: 81px;
+    left: 45px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .group-50 {
+    position: absolute;
+    width: 129px;
+    height: 45px;
+    top: 64px;
+    left: 158px;
+  }
+  
+  .PROJET-NFT .overlap-group-7 {
+    position: relative;
+    width: 127px;
+    height: 45px;
+    background-color: var(--black);
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  .PROJET-NFT .text-wrapper-24 {
+    position: absolute;
+    top: 11px;
+    left: 8px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    cursor: pointer;
+  }
+  
+  .PROJET-NFT .group-51 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 77px;
+    left: 0;
+  }
+  
+  .PROJET-NFT .vector-wrapper {
+    position: relative;
+    width: 34px;
+    height: 34px;
+    top: -1px;
+    left: -1px;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/ellipse-277-3.svg);
+    background-size: 100% 100%;
+  }
+  
+  .PROJET-NFT .vector {
+    position: absolute;
+    width: 11px;
+    height: 23px;
+    top: 5px;
+    left: 11px;
+  }
+  
+  .PROJET-NFT .group-52 {
+    position: absolute;
+    width: 129px;
+    height: 37px;
+    top: 3px;
+    left: 158px;
+  }
+  
+  .PROJET-NFT .overlap-12 {
+    position: relative;
+    height: 39px;
+    top: -1px;
+    left: -1px;
+    border-radius: 6px;
+    border: 1px solid;
+    border-color: #000000;
+    backdrop-filter: blur(7.45px) brightness(100%);
+    -webkit-backdrop-filter: blur(7.45px) brightness(100%);
+  }
+  
+  .PROJET-NFT .text-wrapper-25 {
+    position: absolute;
+    top: -3px;
+    left: 18px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14.9px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .monkey {
+    position: absolute;
+    width: 319px;
+    height: 561px;
+    top: 9px;
+    left: 341px;
+  }
+  
+  .PROJET-NFT .overlap-13 {
+    position: relative;
+    height: 561px;
+  }
+  
+  .PROJET-NFT .ellipse-2 {
+    position: absolute;
+    width: 310px;
+    height: 306px;
+    top: 103px;
+    left: 2px;
+    border-radius: 154.86px/153px;
+    transform: rotate(90deg);
+    filter: blur(74.45px);
+    background: linear-gradient(
+      180deg,
+      rgba(224, 37, 206, 0.7) 0%,
+      rgba(74, 237, 82, 0.7) 50.52%,
+      rgba(97, 216, 253, 0.7) 100%
+    );
+    opacity: 0.5;
+  }
+  
+  .PROJET-NFT .monkey-2 {
+    position: absolute;
+    width: 319px;
+    height: 561px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PROJET-NFT .overlap-group-8 {
+    position: relative;
+    width: 323px;
+    height: 565px;
+    left: -4px;
+  }
+  
+  .PROJET-NFT .rectangle-8 {
+    width: 321px;
+    top: 115px;
+    position: absolute;
+    height: 450px;
+    left: 0;
+    border-radius: 6px;
+    border: 4px solid;
+    border-color: #000000;
+    transform: rotate(180deg);
+    backdrop-filter: blur(74.45px) brightness(100%);
+    -webkit-backdrop-filter: blur(74.45px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.13) 0%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .img-4 {
+    position: absolute;
+    width: 296px;
+    height: 401px;
+    top: 0;
+    left: 27px;
+  }
+  
+  .PROJET-NFT .group-53 {
+    position: absolute;
+    width: 313px;
+    height: 150px;
+    top: 411px;
+    left: 0;
+    backdrop-filter: blur(7.45px) brightness(100%);
+    -webkit-backdrop-filter: blur(7.45px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .text-wrapper-26 {
+    position: absolute;
+    top: 81px;
+    left: 43px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .overlap-14 {
+    position: relative;
+    width: 34px;
+    height: 34px;
+    top: -1px;
+    left: -1px;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/ellipse-277-2.svg);
+    background-size: 100% 100%;
+  }
+  
+  .PROJET-NFT .overlap-15 {
+    position: absolute;
+    width: 691px;
+    height: 539px;
+    top: 31px;
+    left: 679px;
+  }
+  
+  .PROJET-NFT .group-54 {
+    position: absolute;
+    width: 315px;
+    height: 522px;
+    top: 17px;
+    left: 0;
+  }
+  
+  .PROJET-NFT .overlap-16 {
+    position: relative;
+    height: 522px;
+  }
+  
+  .PROJET-NFT .ellipse-3 {
+    position: absolute;
+    width: 310px;
+    height: 315px;
+    top: 59px;
+    left: 3px;
+    border-radius: 154.86px/157.47px;
+    transform: rotate(90deg);
+    filter: blur(74.45px);
+    background: linear-gradient(
+      180deg,
+      rgba(218, 22, 220, 0.7) 0%,
+      rgba(88, 250, 206, 0.7) 50.52%,
+      rgba(245, 94, 120, 0.7) 100%
+    );
+    opacity: 0.5;
+  }
+  
+  .PROJET-NFT .monkey-3 {
+    position: absolute;
+    width: 313px;
+    height: 522px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PROJET-NFT .overlap-group-9 {
+    position: relative;
+    width: 321px;
+    height: 526px;
+    left: -4px;
+  }
+  
+  .PROJET-NFT .rectangle-9 {
+    width: 321px;
+    top: 76px;
+    position: absolute;
+    height: 450px;
+    left: 0;
+    border-radius: 6px;
+    border: 4px solid;
+    border-color: #000000;
+    transform: rotate(180deg);
+    backdrop-filter: blur(74.45px) brightness(100%);
+    -webkit-backdrop-filter: blur(74.45px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.13) 0%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .img-5 {
+    position: absolute;
+    width: 284px;
+    height: 369px;
+    top: 0;
+    left: 19px;
+  }
+  
+  .PROJET-NFT .group-55 {
+    position: absolute;
+    width: 313px;
+    height: 150px;
+    top: 372px;
+    left: 0;
+    backdrop-filter: blur(7.45px) brightness(100%);
+    -webkit-backdrop-filter: blur(7.45px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .text-wrapper-27 {
+    position: absolute;
+    top: 81px;
+    left: 42px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .overlap-17 {
+    position: relative;
+    width: 34px;
+    height: 34px;
+    top: -1px;
+    left: -1px;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/ellipse-277-1.svg);
+    background-size: 100% 100%;
+  }
+  
+  .PROJET-NFT .group-56 {
+    position: absolute;
+    width: 386px;
+    height: 539px;
+    top: 0;
+    left: 305px;
+  }
+  
+  .PROJET-NFT .overlap-18 {
+    position: relative;
+    height: 539px;
+  }
+  
+  .PROJET-NFT .ellipse-4 {
+    position: absolute;
+    width: 310px;
+    height: 315px;
+    top: 76px;
+    left: 38px;
+    border-radius: 154.86px/157.47px;
+    transform: rotate(90deg);
+    filter: blur(74.45px);
+    background: linear-gradient(
+      180deg,
+      rgba(218, 22, 220, 0.7) 0%,
+      rgba(88, 250, 206, 0.7) 50.52%,
+      rgba(245, 94, 120, 0.7) 100%
+    );
+    opacity: 0.5;
+  }
+  
+  .PROJET-NFT .monkey-4 {
+    position: absolute;
+    width: 386px;
+    height: 539px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PROJET-NFT .group-57 {
+    position: absolute;
+    width: 314px;
+    height: 442px;
+    top: 97px;
+    left: 34px;
+  }
+  
+  .PROJET-NFT .overlap-19 {
+    position: relative;
+    width: 322px;
+    height: 450px;
+    top: -4px;
+    left: -4px;
+    border-radius: 6px;
+  }
+  
+  .PROJET-NFT .rectangle-10 {
+    width: 322px;
+    top: 0;
+    position: absolute;
+    height: 450px;
+    left: 0;
+    border-radius: 6px;
+    border: 4px solid;
+    border-color: #000000;
+    transform: rotate(180deg);
+    backdrop-filter: blur(74.45px) brightness(100%);
+    -webkit-backdrop-filter: blur(74.45px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.13) 0%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .group-58 {
+    position: absolute;
+    width: 313px;
+    height: 150px;
+    top: 296px;
+    left: 4px;
+    backdrop-filter: blur(7.45px) brightness(100%);
+    -webkit-backdrop-filter: blur(7.45px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .overlap-20 {
+    position: relative;
+    width: 34px;
+    height: 34px;
+    top: -1px;
+    left: -1px;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/ellipse-277.svg);
+    background-size: 100% 100%;
+  }
+  
+  .PROJET-NFT .text-wrapper-28 {
+    position: absolute;
+    top: -3px;
+    left: 18px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14.9px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .img-6 {
+    position: absolute;
+    width: 386px;
+    height: 389px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .PROJET-NFT .pseudo-3 {
+    position: absolute;
+    width: 1512px;
+    height: 48px;
+    top: 0;
+    left: 398px;
+  }
+  
+  .PROJET-NFT .pseudo-4 {
+    position: absolute;
+    width: 1512px;
+    height: 2px;
+    top: 1901px;
+    left: 0;
+    background: linear-gradient(180deg, rgb(219.3, 255, 0) 0%, rgba(0, 255, 255, 0) 100%);
+  }
+  
+  .PROJET-NFT .pseudo-5 {
+    position: absolute;
+    width: 1512px;
+    height: 2px;
+    top: 3422px;
+    left: 1px;
+    background: linear-gradient(180deg, rgb(219.3, 255, 0) 0%, rgba(0, 255, 255, 0) 100%);
+  }
+  
+  .PROJET-NFT .pseudo-6 {
+    position: absolute;
+    width: 1512px;
+    height: 2px;
+    top: 4220px;
+    left: 1px;
+    background: linear-gradient(180deg, rgb(219.3, 255, 0) 0%, rgba(0, 255, 255, 0) 100%);
+  }
+  
+  .PROJET-NFT .overlap-21 {
+    position: absolute;
+    width: 1512px;
+    height: 985px;
+    top: 2231px;
+    left: -42px;
+  }
+  
+  .PROJET-NFT .rectangle-11 {
+    position: absolute;
+    width: 1512px;
+    height: 966px;
+    top: 0;
+    left: 0;
+    background-color: var(--blue);
+  }
+  
+  .PROJET-NFT .monkey-cards {
+    position: absolute;
+    width: 1328px;
+    height: 860px;
+    top: 51px;
+    left: 92px;
+  }
+  
+  .PROJET-NFT .monkey-5 {
+    position: absolute;
+    width: 252px;
+    height: 415px;
+    top: 445px;
+    left: 1076px;
+    border-radius: 6px;
+    overflow: hidden;
+    backdrop-filter: blur(50.76px) brightness(100%);
+    -webkit-backdrop-filter: blur(50.76px) brightness(100%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 99.99%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .frame {
+    position: absolute;
+    width: 222px;
+    height: 243px;
+    top: 54px;
+    left: 15px;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 2px solid;
+    border-color: transparent;
+    border-image: linear-gradient(to bottom, rgb(254, 244, 2), rgb(88, 250, 206)) 1;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/frame-6-9@2x.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .PROJET-NFT .overlap-22 {
+    position: relative;
+    height: 241px;
+    top: 1px;
+  }
+  
+  .PROJET-NFT .group-59 {
+    position: absolute;
+    width: 89px;
+    height: 26px;
+    top: 6px;
+    left: 128px;
+  }
+  
+  .PROJET-NFT .overlap-group-10 {
+    position: relative;
+    height: 28px;
+    top: -1px;
+    left: -1px;
+    border-radius: 4px;
+    backdrop-filter: blur(7px) brightness(100%);
+    -webkit-backdrop-filter: blur(7px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .text-wrapper-29 {
+    position: absolute;
+    top: -7px;
+    left: 7px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .grill-boy {
+    position: absolute;
+    width: 222px;
+    height: 241px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PROJET-NFT .text-wrapper-30 {
+    position: absolute;
+    top: -7px;
+    left: 7px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .overlap-23 {
+    position: absolute;
+    width: 209px;
+    height: 44px;
+    top: 303px;
+    left: 15px;
+  }
+  
+  .PROJET-NFT .text-wrapper-31 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 26.8px;
+    white-space: nowrap;
+  }
+  
+  .PROJET-NFT .text-wrapper-32 {
+    position: absolute;
+    top: 23px;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffffb2;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20.9px;
+    white-space: nowrap;
+  }
+  
+  .PROJET-NFT .text-wrapper-33 {
+    position: absolute;
+    top: 20px;
+    left: 51px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20.9px;
+    white-space: nowrap;
+  }
+  
+  .PROJET-NFT .overlap-24 {
+    position: absolute;
+    width: 85px;
+    height: 48px;
+    top: 354px;
+    left: 5px;
+  }
+  
+  .PROJET-NFT .group-60 {
+    position: absolute;
+    width: 52px;
+    height: 39px;
+    top: 4px;
+    left: 33px;
+  }
+  
+  .PROJET-NFT .overlap-25 {
+    position: relative;
+    width: 48px;
+    height: 39px;
+  }
+  
+  .PROJET-NFT .text-wrapper-34 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffff99;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20.9px;
+    white-space: nowrap;
+  }
+  
+  .PROJET-NFT .text-wrapper-35 {
+    position: absolute;
+    top: 21px;
+    left: 0;
+    font-family: "Outfit", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 12.3px;
+    letter-spacing: 0;
+    line-height: 18.3px;
+    white-space: nowrap;
+  }
+  
+  .PROJET-NFT .group-61 {
+    position: absolute;
+    width: 37px;
+    height: 48px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PROJET-NFT .group-62 {
+    position: absolute;
+    width: 17px;
+    height: 28px;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .PROJET-NFT .group-63 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 23px;
+    left: 220px;
+  }
+  
+  .PROJET-NFT .ellipse-5 {
+    position: absolute;
+    width: 29px;
+    height: 30px;
+    top: 16px;
+    left: 15px;
+  }
+  
+  .PROJET-NFT .group-64 {
+    position: absolute;
+    width: 129px;
+    height: 45px;
+    top: 355px;
+    left: 110px;
+  }
+  
+  .PROJET-NFT .text-wrapper-36 {
+    position: absolute;
+    top: 12px;
+    left: 8px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .monkey-6 {
+    position: absolute;
+    width: 252px;
+    height: 415px;
+    top: 445px;
+    left: 807px;
+    border-radius: 6px;
+    overflow: hidden;
+    backdrop-filter: blur(50.76px) brightness(100%);
+    -webkit-backdrop-filter: blur(50.76px) brightness(100%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 99.99%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .frame-2 {
+    border-radius: 6px;
+    border-image: linear-gradient(to bottom, rgb(254, 244, 2), rgb(88, 250, 206)) 1;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/frame-6-8@2x.png);
+    position: absolute;
+    width: 222px;
+    height: 243px;
+    top: 54px;
+    left: 15px;
+    overflow: hidden;
+    border: 2px solid;
+    border-color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .PROJET-NFT .group-65 {
+    position: relative;
+    width: 89px;
+    height: 26px;
+    top: 7px;
+    left: 128px;
+  }
+  
+  .PROJET-NFT .text-wrapper-37 {
+    top: -7px;
+    left: 7px;
+    position: absolute;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .overlap-26 {
+    position: absolute;
+    width: 181px;
+    height: 44px;
+    top: 303px;
+    left: 15px;
+  }
+  
+  .PROJET-NFT .overlap-27 {
+    position: absolute;
+    width: 79px;
+    height: 48px;
+    top: 354px;
+    left: 5px;
+  }
+  
+  .PROJET-NFT .group-66 {
+    width: 46px;
+    position: absolute;
+    height: 39px;
+    top: 4px;
+    left: 33px;
+  }
+  
+  .PROJET-NFT .overlap-28 {
+    position: relative;
+    width: 42px;
+    height: 39px;
+  }
+  
+  .PROJET-NFT .ellipse-6 {
+    position: absolute;
+    width: 29px;
+    height: 30px;
+    top: 16px;
+    left: 15px;
+    object-fit: cover;
+  }
+  
+  .PROJET-NFT .monkey-7 {
+    position: absolute;
+    width: 252px;
+    height: 415px;
+    top: 445px;
+    left: 538px;
+    border-radius: 6px;
+    overflow: hidden;
+    backdrop-filter: blur(50.76px) brightness(100%);
+    -webkit-backdrop-filter: blur(50.76px) brightness(100%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 99.99%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .frame-3 {
+    border-radius: 5.34px;
+    border-image: linear-gradient(to bottom, rgb(254, 244, 2), rgb(88, 250, 206)) 1;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/frame-6-7@2x.png);
+    position: absolute;
+    width: 222px;
+    height: 243px;
+    top: 54px;
+    left: 15px;
+    overflow: hidden;
+    border: 2px solid;
+    border-color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .PROJET-NFT .overlap-29 {
+    position: relative;
+    height: 242px;
+  }
+  
+  .PROJET-NFT .group-67 {
+    position: absolute;
+    width: 89px;
+    height: 26px;
+    top: 7px;
+    left: 128px;
+  }
+  
+  .PROJET-NFT .raccoon-forest {
+    position: absolute;
+    width: 222px;
+    height: 242px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .PROJET-NFT .overlap-30 {
+    position: absolute;
+    width: 201px;
+    height: 44px;
+    top: 303px;
+    left: 15px;
+  }
+  
+  .PROJET-NFT .text-wrapper-38 {
+    position: absolute;
+    top: 0;
+    left: 1px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 26.8px;
+    white-space: nowrap;
+  }
+  
+  .PROJET-NFT .overlap-31 {
+    position: absolute;
+    width: 81px;
+    height: 48px;
+    top: 354px;
+    left: 5px;
+  }
+  
+  .PROJET-NFT .group-68 {
+    width: 48px;
+    position: absolute;
+    height: 39px;
+    top: 4px;
+    left: 33px;
+  }
+  
+  .PROJET-NFT .overlap-32 {
+    position: relative;
+    width: 44px;
+    height: 39px;
+  }
+  
+  .PROJET-NFT .monkey-8 {
+    position: absolute;
+    width: 252px;
+    height: 415px;
+    top: 445px;
+    left: 269px;
+    border-radius: 6px;
+    overflow: hidden;
+    backdrop-filter: blur(50.76px) brightness(100%);
+    -webkit-backdrop-filter: blur(50.76px) brightness(100%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 99.99%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .frame-4 {
+    border-radius: 6px;
+    border-image: linear-gradient(to bottom, rgb(254, 244, 2), rgb(88, 250, 206)) 1;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/frame-6-6@2x.png);
+    position: absolute;
+    width: 222px;
+    height: 243px;
+    top: 54px;
+    left: 15px;
+    overflow: hidden;
+    border: 2px solid;
+    border-color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .PROJET-NFT .overlap-33 {
+    position: absolute;
+    width: 172px;
+    height: 44px;
+    top: 303px;
+    left: 15px;
+  }
+  
+  .PROJET-NFT .overlap-34 {
+    position: absolute;
+    width: 80px;
+    height: 48px;
+    top: 354px;
+    left: 5px;
+  }
+  
+  .PROJET-NFT .group-69 {
+    width: 47px;
+    position: absolute;
+    height: 39px;
+    top: 4px;
+    left: 33px;
+  }
+  
+  .PROJET-NFT .overlap-35 {
+    position: relative;
+    width: 43px;
+    height: 39px;
+  }
+  
+  .PROJET-NFT .monkey-9 {
+    position: absolute;
+    width: 252px;
+    height: 415px;
+    top: 445px;
+    left: 0;
+    border-radius: 6px;
+    overflow: hidden;
+    backdrop-filter: blur(50.76px) brightness(100%);
+    -webkit-backdrop-filter: blur(50.76px) brightness(100%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 99.99%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .frame-5 {
+    border-radius: 6px;
+    
+    border-image: linear-gradient(to bottom, rgb(254, 244, 2), rgb(88, 250, 206)) 1;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/frame-6-5@2x.png);
+    position: absolute;
+    width: 222px;
+    height: 243px;
+    top: 54px;
+    left: 15px;
+    overflow: hidden;
+    border: 2px solid;
+    border-color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .PROJET-NFT .group-70 {
+    position: relative;
+    width: 89px;
+    height: 26px;
+    top: 211px;
+    left: 8px;
+    transform: rotate(180deg);
+  }
+  
+  .PROJET-NFT .overlap-group-11 {
+    position: relative;
+    height: 28px;
+    top: 1px;
+    left: -1px;
+    border-radius: 4px;
+    backdrop-filter: blur(7px) brightness(100%);
+    -webkit-backdrop-filter: blur(7px) brightness(100%);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .text-wrapper-39 {
+    top: -7px;
+    left: 7px;
+    position: absolute;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .PROJET-NFT .text-wrapper-49{
+    position: absolute;
+    top: -18px;
+    left: -3px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 26.8px;
+    white-space: nowrap;
+  }
+  
+  .PROJET-NFT .text-wrapper-40 {
+    position: absolute;
+    top: 303px;
+    left: 15px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 26.8px;
+    white-space: nowrap;
+  }
+  
+  .PROJET-NFT .overlap-36 {
+    position: absolute;
+    width: 82px;
+    height: 48px;
+    top: 354px;
+    left: 5px;
+  }
+  
+  .PROJET-NFT .group-71 {
+    width: 49px;
+    position: absolute;
+    height: 39px;
+    top: 4px;
+    left: 33px;
+  }
+  
+  .PROJET-NFT .overlap-37 {
+    position: relative;
+    width: 45px;
+    height: 39px;
+  }
+  
+  .PROJET-NFT .monkey-10 {
+    position: absolute;
+    width: 252px;
+    height: 415px;
+    top: 0;
+    left: 1076px;
+    border-radius: 6px;
+    overflow: hidden;
+    backdrop-filter: blur(50.76px) brightness(100%);
+    -webkit-backdrop-filter: blur(50.76px) brightness(100%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 99.99%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .frame-6 {
+    border-radius: 6px;
+    border-image: linear-gradient(to bottom, rgb(252, 238, 10), rgb(0, 209.1, 255)) 1;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/frame-6-4@2x.png);
+    position: absolute;
+    width: 222px;
+    height: 243px;
+    top: 54px;
+    left: 15px;
+    overflow: hidden;
+    border: 2px solid;
+    border-color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .PROJET-NFT .overlap-38 {
+    position: relative;
+    height: 243px;
+  }
+  
+  .PROJET-NFT .zora-underwater {
+    position: absolute;
+    width: 222px;
+    height: 243px;
+    top: 0;
+    left: 0;
+  }
+  
+  .PROJET-NFT .overlap-39 {
+    position: absolute;
+    width: 162px;
+    height: 44px;
+    top: 303px;
+    left: 15px;
+  }
+  
+  .PROJET-NFT .overlap-40 {
+    position: absolute;
+    width: 84px;
+    height: 48px;
+    top: 354px;
+    left: 5px;
+  }
+  
+  .PROJET-NFT .group-72 {
+    width: 51px;
+    position: absolute;
+    height: 39px;
+    top: 4px;
+    left: 33px;
+  }
+  
+  .PROJET-NFT .overlap-41 {
+    position: relative;
+    width: 47px;
+    height: 39px;
+  }
+  
+  .PROJET-NFT .group-73 {
+    position: absolute;
+    width: 17px;
+    height: 28px;
+    top: 11px;
+    left: 10px;
+  }
+  
+  .PROJET-NFT .monkey-11 {
+    position: absolute;
+    width: 252px;
+    height: 415px;
+    top: 0;
+    left: 807px;
+    border-radius: 6px;
+    overflow: hidden;
+    backdrop-filter: blur(50.76px) brightness(100%);
+    -webkit-backdrop-filter: blur(50.76px) brightness(100%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 99.99%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .frame-7 {
+    border-radius: 6px;
+    border-image: linear-gradient(to bottom, rgb(252, 238, 10), rgb(0, 209.1, 255)) 1;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/frame-6-3@2x.png);
+    position: absolute;
+    width: 222px;
+    height: 243px;
+    top: 54px;
+    left: 15px;
+    overflow: hidden;
+    border: 2px solid;
+    border-color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .PROJET-NFT .overlap-42 {
+    position: absolute;
+    width: 192px;
+    height: 44px;
+    top: 303px;
+    left: 15px;
+  }
+  
+  .PROJET-NFT .overlap-43 {
+    position: absolute;
+    width: 83px;
+    height: 48px;
+    top: 354px;
+    left: 5px;
+  }
+  
+  .PROJET-NFT .group-74 {
+    width: 50px;
+    position: absolute;
+    height: 39px;
+    top: 4px;
+    left: 33px;
+  }
+  
+  .PROJET-NFT .overlap-44 {
+    position: relative;
+    width: 46px;
+    height: 39px;
+  }
+  
+  .PROJET-NFT .monkey-12 {
+    position: absolute;
+    width: 252px;
+    height: 415px;
+    top: 0;
+    left: 538px;
+    border-radius: 6px;
+    overflow: hidden;
+    backdrop-filter: blur(50.76px) brightness(100%);
+    -webkit-backdrop-filter: blur(50.76px) brightness(100%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 99.99%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .frame-8 {
+    border-radius: 6px;
+    border-image: linear-gradient(to bottom, rgb(252, 238, 10), rgb(0, 209.1, 255)) 1;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/frame-6-2@2x.png);
+    position: absolute;
+    width: 222px;
+    height: 243px;
+    top: 54px;
+    left: 15px;
+    overflow: hidden;
+    border: 2px solid;
+    border-color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .PROJET-NFT .overlap-45 {
+    position: absolute;
+    width: 200px;
+    height: 44px;
+    top: 303px;
+    left: 15px;
+  }
+  
+  .PROJET-NFT .monkey-13 {
+    position: absolute;
+    width: 252px;
+    height: 415px;
+    top: 0;
+    left: 269px;
+    border-radius: 6px;
+    overflow: hidden;
+    backdrop-filter: blur(50.76px) brightness(100%);
+    -webkit-backdrop-filter: blur(50.76px) brightness(100%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.3) 99.99%, rgba(255, 255, 255, 0.06) 100%);
+  }
+  
+  .PROJET-NFT .frame-9 {
+    border-radius: 5.34px;
+    border-image: linear-gradient(to bottom, rgb(243, 186, 47), rgb(88, 250, 206)) 1;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/frame-6-1@2x.png);
+    position: absolute;
+    width: 222px;
+    height: 243px;
+    top: 54px;
+    left: 15px;
+    overflow: hidden;
+    border: 2px solid;
+    border-color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .PROJET-NFT .text-wrapper-41 {
+    position: absolute;
+    top: 330px;
+    left: 15px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 400;
+    color: #ffffffb2;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 20.9px;
+    white-space: nowrap;
+  }
+  
+  .PROJET-NFT .monkey-14 {
+    position: absolute;
+    width: 252px;
+    height: 415px;
+    top: 0;
+    left: 0;
+    border-radius: 6px;
+    overflow: hidden;
+    backdrop-filter: blur(50.76px) brightness(100%);
+    -webkit-backdrop-filter: blur(50.76px) brightness(100%);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.42) 99.99%, rgba(255, 255, 255, 0.2) 100%);
+  }
+  
+  .PROJET-NFT .frame-10 {
+    border-radius: 6px;
+    border-image: linear-gradient(to bottom, rgb(243, 186, 47), rgb(0, 255, 239.7) 99.99%, rgb(88, 250, 206) 100%) 1;
+    background-image: url(https://c.animaapp.com/MZpriGCx/img/frame-6@2x.png);
+    position: absolute;
+    width: 222px;
+    height: 243px;
+    top: 54px;
+    left: 15px;
+    overflow: hidden;
+    border: 2px solid;
+    border-color: transparent;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .PROJET-NFT .group-75 {
+    position: relative;
+    width: 89px;
+    height: 26px;
+    top: 7px;
+    left: 127px;
+  }
+  
+  .PROJET-NFT .pseudo-7 {
+    position: absolute;
+    width: 1512px;
+    height: 21px;
+    top: 964px;
+    left: 0;
+  }
+  
+  .PROJET-NFT .view-more-button-3 {
+    top: 3295px;
+    left: 634px;
+    position: absolute;
+    width: 247px;
+    height: 62px;
+  }
+  
+  .PROJET-NFT .monthly-treasures {
+    position: absolute;
+    width: 913px;
+    height: 119px;
+    top: 1949px;
+    left: 244px;
+  }
+  
+  .PROJET-NFT .text-wrapper-42 {
+    position: absolute;
+    top: 0;
+    left: 286px;
+    font-family: "Outfit", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: 1.9px;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .d-couvrez-l-une-des {
+    position: absolute;
+    top: 69px;
+    left: 0;
+    opacity: 0.7;
+    font-family: "Outfit", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .PROJET-NFT .razor-red {
+    position: absolute;
+    width: 1512px;
+    height: 46px;
+    top: 2185px;
+    left: 0;
+  }
+  
